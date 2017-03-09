@@ -1,0 +1,4 @@
+Hello World!
+I'm a cat!
+And I'm in a file!
+YAY!
